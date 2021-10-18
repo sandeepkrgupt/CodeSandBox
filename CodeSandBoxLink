@@ -1,10 +1,24 @@
 Code SandBox:-
+
 https://codesandbox.io/s/green-rgb-d2hr4
--------
+
+-------Dynamic create input fields and insert data ------------------------------------
+
 Multiple Donor Grid Auto-Insert
-------
+
+---------------------------------------------------------------------------------------
+
 https://codesandbox.io/s/confident-margulis-mrb5q
---------
+
+---------------------------------------------------------------------------------------
+
 https://codesandbox.io/s/vigilant-waterfall-eoh49?file=/public/index.html
--------
-https://graphql.org/
+
+--------------Fetch data from free API and also insert data into table-----------------
+
+https://codesandbox.io/s/kind-nightingale-2zp90?file=/src/App.js
+
+--------------------------------------------------------------------------------------
+update student record on change make an API call to display data (URL : https://jsonplaceholder.typicode.com/posts)
+
+https://github.com/sandeepkrgupt/CodeSandBox/edit/main/CodeSandBoxLink
