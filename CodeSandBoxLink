@@ -1,20 +1,12 @@
 Code SandBox:-
 
 https://codesandbox.io/s/green-rgb-d2hr4
-
--------Dynamic create input fields and insert data ------------------------------------
-
-Multiple Donor Grid Auto-Insert
-
 ---------------------------------------------------------------------------------------
+-Dynamic create input fields and insert data 
 
 https://codesandbox.io/s/confident-margulis-mrb5q
-
 ---------------------------------------------------------------------------------------
-
-https://codesandbox.io/s/vigilant-waterfall-eoh49?file=/public/index.html
-
---------------Fetch data from free API and also insert data into table-----------------
+-Fetch data from free API and also insert data into table
 
 https://codesandbox.io/s/kind-nightingale-2zp90?file=/src/App.js
 
