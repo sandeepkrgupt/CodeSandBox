@@ -16,4 +16,8 @@ update student record on change make an API call to display data (URL : https://
 https://github.com/sandeepkrgupt/CodeSandBox/edit/main/CodeSandBoxLink
 
 
+-----------------------------------------------------------------------------
+update only address when click on update address button.
 
+https://codesandbox.io/s/eloquent-kilby-zwsl1?file=/src/App.js
+---------------------------------------------------------------------------
